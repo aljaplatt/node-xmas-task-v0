@@ -1,0 +1,26 @@
+{
+  "name": "node-xmas-task-v0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljaplatt/node-xmas-task-v0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aljaplatt/node-xmas-task-v0/issues"
+  },
+  "homepage": "https://github.com/aljaplatt/node-xmas-task-v0#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
